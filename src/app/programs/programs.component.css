@@ -1,0 +1,96 @@
+/* General layout and typography */
+
+  .programs-intro {
+    margin-bottom: 30px;
+  }
+  
+  .programs-intro h1 {
+    color: #0056b3; /* Blue */
+  }
+  
+  .programs-intro p {
+    font-size: 18px;
+    color: #666;
+  }
+  
+  /* Age group selection styles */
+  .age-group-selection {
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  }
+  
+  .age-group-selection legend {
+    font-weight: bold;
+    font-size: 20px;
+    color: #0056b3; /* Blue */
+  }
+  
+  .age-group-label {
+    display: block;
+    margin-bottom: 10px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .age-group-label input[type="radio"] {
+    margin-right: 10px;
+    cursor: pointer;
+  }
+  
+  .age-group-label span {
+    vertical-align: middle;
+  }
+  
+  /* Program details styles */
+  .program-details {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    border-left: 4px solid #ff8c00; /* Orange */
+  }
+  
+  .program-details h3 {
+    margin-top: 0;
+    color: #ff8c00; /* Orange */
+  }
+  
+  .program-details ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .program-details li {
+    padding: 10px 0;
+    border-bottom: 1px solid #eee;
+    font-size: 16px;
+  }
+  
+  .program-details li:last-child {
+    border: none;
+  }
+  
+  .program-details strong {
+    color: #0056b3; /* Blue */
+  }
+  
+  /* Registration button styles */
+  .program-details button {
+    background-color: #ff8c00; /* Orange */
+    color: #fff;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+    float: right; /* Align the button to the right of the list item */
+    margin-left: 15px; /* Ensure some space between text and button */
+  }
+  
+  .program-details button:hover {
+    background-color: #e67e00; /* Darker orange */
+  }
+  

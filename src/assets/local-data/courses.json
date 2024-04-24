@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "title": "Art & Crafts",
+      "description": "...",
+      "ageGroup": "4-7",
+      "imageUrl": "assets/images/art-and-crafts.png"
+    },
+    {
+      "id": 2,
+      "title": "Coding for Kids",
+      "description": "...",
+      "ageGroup": "8-12",
+      "imageUrl": "assets/images/coding.png" 
+    },
+    {
+      "id": 3,
+      "title": "Elementary Math",
+      "description": "...",
+      "ageGroup": "6-9",
+      "imageUrl": "assets/images/math.png",
+      "schoolCourse": true,
+      "educationType": "American" 
+    }
+   
+]
+  

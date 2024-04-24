@@ -1,0 +1,80 @@
+/* registration.component.css */
+
+/* Form Container */
+.form-container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: lightgray;
+    border-radius: 10px;
+  }
+  
+  /* Form Header */
+  .form-header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .form-header h2 {
+    color: darkgreen;
+  }
+  
+  /* Form Fields */
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .form-group label {
+    color: darkgreen;
+  }
+  
+  /* Input Fields */
+  .form-control {
+    width: 100%; /* Fallback for older browsers */
+    width: 300px; /* Width for desktop */
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+  }
+  
+  /* Submit Button */
+  .btn-submit {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: lightyellow;
+    color: darkgreen;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .btn-submit:hover {
+    background-color: #ffff99; /* Lighter shade of yellow on hover */
+  }
+  
+  /* Media Query for Tablets */
+  @media screen and (max-width: 768px) {
+    .form-control {
+      width: 100%; /* Full width for tablets */
+    }
+  }
+  
+  /* Media Query for Mobile Devices */
+  @media screen and (max-width: 576px) {
+    .form-control {
+      width: 100%; /* Full width for mobile devices */
+    }
+  
+    /* Adjust padding for smaller screens */
+    .form-container {
+      padding: 10px;
+    }
+  
+    .form-group {
+      margin-bottom: 15px;
+    }
+  }
+  

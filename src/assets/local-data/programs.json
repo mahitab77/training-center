@@ -1,0 +1,122 @@
+{
+    "programs": {
+        "ages_4_6": [
+            {
+                "name": "Pre-Reading and Writing Skills",
+                "description": "Introduction to alphabets, phonics, and simple writing exercises."
+            },
+            {
+                "name": "Basic Math Concepts",
+                "description": "Introduction to numbers, counting, basic shapes, and simple addition and subtraction."
+            },
+            {
+                "name": "Exploratory Science",
+                "description": "Basic experiments and activities to spark curiosity in natural phenomena."
+            },
+            {
+                "name": "Creative Arts",
+                "description": "Art and music classes to develop creativity and fine motor skills."
+            },
+            {
+                "name": "Social Skills",
+                "description": "Activities designed to enhance communication, sharing, and teamwork."
+            }
+        ],
+        "ages_7_10": [
+            {
+                "name": "Literacy and Language Arts",
+                "description": "Reading, writing, and comprehension skills, including vocabulary building."
+            },
+            {
+                "name": "Mathematics",
+                "description": "Building on basic concepts to include multiplication, division, and problem-solving skills."
+            },
+            {
+                "name": "Science Exploration",
+                "description": "More structured science education in biology, physics, and chemistry through experiments."
+            },
+            {
+                "name": "Computer Basics",
+                "description": "Introduction to computer use, basic programming concepts, and digital literacy."
+            },
+            {
+                "name": "Foreign Languages",
+                "description": "Introduction to foreign language learning, focusing on basic conversational skills and vocabulary."
+            },
+            {
+                "name": "Arts and Crafts",
+                "description": "More advanced projects to develop artistic skills and creativity."
+            }
+        ],
+        "ages_11_13": [
+            {
+                "name": "Advanced Math",
+                "description": "Pre-algebra, geometry, and introduction to algebra."
+            },
+            {
+                "name": "Science Labs",
+                "description": "More in-depth study of biology, chemistry, and physics with hands-on laboratory work."
+            },
+            {
+                "name": "Language Arts",
+                "description": "Advanced reading and writing, including essay writing and literature study."
+            },
+            {
+                "name": "Social Studies",
+                "description": "Geography, history, and civics to understand the world and its cultures."
+            },
+            {
+                "name": "Technology and Coding",
+                "description": "Introduction to coding languages, web design, and more advanced computer skills."
+            },
+            {
+                "name": "Study and Organizational Skills",
+                "description": "Courses to improve study habits, time management, and organizational skills."
+            }
+        ],
+        "ages_14_18": [
+            {
+                "name": "College Prep",
+                "description": "SAT/ACT preparation, college application and essay writing workshops."
+            },
+            {
+                "name": "Advanced Placement (AP) or International Baccalaureate (IB) Coursework",
+                "description": "Advanced courses in various subjects for college credit."
+            },
+            {
+                "name": "Career Exploration",
+                "description": "Workshops and courses in various career paths including STEM, arts, business, and trades."
+            },
+            {
+                "name": "Leadership and Personal Development",
+                "description": "Programs to develop leadership skills, public speaking, and personal growth."
+            },
+            {
+                "name": "Financial Literacy",
+                "description": "Understanding personal finance, budgeting, savings, and investment basics."
+            },
+            {
+                "name": "Advanced Technology and Programming",
+                "description": "Specialized courses in software development, robotics, AI, and more."
+            }
+        ],
+        "cross_age_programs": [
+            {
+                "name": "Environmental Education",
+                "description": "Programs focusing on sustainability, conservation, and respect for nature."
+            },
+            {
+                "name": "Community Service and Volunteering",
+                "description": "Opportunities to develop empathy, responsibility, and community involvement."
+            },
+            {
+                "name": "Physical Education and Wellness",
+                "description": "Sports, yoga, and mindfulness classes to promote physical health and mental well-being."
+            },
+            {
+                "name": "Cultural Exchange Programs",
+                "description": "Programs that encourage understanding and appreciation of different cultures."
+            }
+        ]
+    }
+}
