@@ -18,7 +18,6 @@ mark, rp, rt, ruby, summary, time {
 }
 /* Global properties */
 body {
-	background:url(../images/bg_top2.jpg) top repeat-x #fff;
 	border:0;
 	font:14px Tahoma, Geneva, sans-serif;
 	color:#4c4c4c;
@@ -51,13 +50,6 @@ body {
 .main {
 	margin:0 auto;
 	width:95vw;
-}
-.body1 {
-	background:url(../images/bg_top_img2.jpg) top center no-repeat
-}
-.body2 {
-	background:#f2f2f2;
-
 }
 /* main layout */
 a {
@@ -93,81 +85,7 @@ h3 {
 p {
 	padding-bottom:20px
 }
-/* header */
-header {
-	height:376px;
-	width:100%;
-	overflow:hidden
-}
-#logo {
-	display:block;
-	background:url(../images/logo.png) no-repeat;
-	width:273px;
-	height:84px;
-	text-indent:-9999px
-}
-#menu {
-	float:left;
-	padding:11px 0 0 39px
-}
-#menu li {
-	float:left;
-	padding-right:17px;
-	background:url(../images/menu_line.jpg) right 0 no-repeat;
-	margin-right:15px
-}
-#menu .end {
-	background:none
-}
-#menu li a {
-	display:block;
-	font-size:15px;
-	color:#fff;
-	line-height:36px;
-	text-transform:uppercase;
-	text-decoration:none;
-	height:40px;
-}
-#menu li a:hover, #menu #menu_active a {
-	color:#44fbfe
-}
-#icon {
-	float:right;
-	padding:16px 40px 0 0
-}
-#icon li {
-	float:left;
-	padding-left:15px
-}
-#icons {
-	float:right;
-	padding:20px 39px 0 0
-}
-#icons li {
-	float:left;
-	padding-left:11px
-}
-#slogan {
-	background:url(../images/top_line2.gif) 0 0 no-repeat;
-	font-size:46px;
-	color:#002b3a;
-	line-height:1.2em;
-	margin:25px 0 0 39px;
-	padding-top:18px;
-	letter-spacing:-2px
-}
-#slogan span {
-	display:block;
-	font-size:36px;
-	line-height:1.2em;
-	margin-top:-12px
-}
-.banners {
-	padding:26px 0 0 35px
-}
-.banners li {
-	padding-bottom:2px
-}
+
 /* content */
 #content {
 	width:100%;
